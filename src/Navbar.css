@@ -1,0 +1,21 @@
+nav {
+  padding: 20px;
+  background-color: black;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.NavLinks {
+  margin: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: lightgray
+}

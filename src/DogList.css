@@ -1,0 +1,22 @@
+.DogList {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.dog {
+  width: 300px;
+}
+
+.dog a {
+  text-decoration: none;
+  color: black;
+}
+
+.dog a:hover {
+  color: grey;
+}
+
+.dogImg {
+  width: 70%;
+}
